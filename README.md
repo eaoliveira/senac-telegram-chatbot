@@ -10,7 +10,7 @@ Este projeto tem contribuições de:
 - [@eaoliveira](https://github.com/eaoliveira) - Edna Paula
 - Leonardo Mendonca
 - [@matheusgsilva](https://github.com/matheusgsilva) - Matheus Graciando
-- 
+- Vinicius Ledesma
 ## Tecnologias Utilizadas
 
 - Python 3.x
