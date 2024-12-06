@@ -8,7 +8,7 @@ Este projeto tem contribuições de:
 
 - Bruna Xavier
 - [@eaoliveira](https://github.com/eaoliveira) - Edna Paula
-- Leonardo Mendonca
+- [@Leonardofsm](https://github.com/Leonardofsm) Leonardo Mendonca
 - [@matheusgsilva](https://github.com/matheusgsilva) - Matheus Graciando
 - Vinicius Ledesma
 ## Tecnologias Utilizadas
